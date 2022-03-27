@@ -1,0 +1,17 @@
+﻿.navbar-brand {
+    max-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    width: 100%;
+}
+.navbar {
+    padding-bottom: 4px;
+    display:flex;
+    align-items:center;
+}
+.container {
+    width: 100%;
+}
